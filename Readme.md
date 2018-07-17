@@ -20,6 +20,7 @@ Tableau visualitation portfolio is located [here](https://public.tableau.com/pro
     + [Buy Online, PickUp In Store (BOPS) Strategy](https://github.com/ivorypoo/AmazonTabletReviewAnalysis/blob/master/Project_Ivory_Poo.ipynb): Analyzed over 1.5 million transactions for an online jewelry company; performed data wrangling, data cleaning; built multivariate linear, Poisson and Probit models to provide analytical insights on the impact of BOPS on sales.
 
 <br/>
+
   * Web Scraping & Network Graph
     + [TechCrunch Analysis](http://rpubs.com/ivorypoo/techcrunchanalysis):Scraped Techcrunch site and analyzed the title and content of the article appeared in the front page. Performed text analysis using Term Document Matrix (TDM) and network graph.
 
