@@ -7,7 +7,6 @@ The R portfolio is located [here](http://rpubs.com/ivorypoo).
 
 Tableau visualitation portfolio is located [here](https://public.tableau.com/profile/ivory.poo#!/).
 
-My is email is [ivory.poo@gmail.com](ivory.poo@gmail.com).
 ## Content
 ### Tableau
   * Visualization
