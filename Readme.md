@@ -1,8 +1,4 @@
----
-output:
-  html_document: default
-  pdf_document: default
----
+
 # Portfolio
 
 Hi! My name is Ivory Poo. These are my data science project for academic and self learning purpose.
