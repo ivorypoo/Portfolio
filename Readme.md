@@ -20,7 +20,7 @@ For collaboration and job oppurtunities, please email me at <ivory.poo@gmail.com
 
 ### R
   * Linear regression, Poisson and Probit Model
-    + [Buy Online, PickUp In Store (BOPS) Strategy](https://github.com/ivorypoo/AmazonTabletReviewAnalysis/blob/master/Project_Ivory_Poo.ipynb): Analyzed over 1.5 million transactions for an online jewelry company; performed data wrangling, data cleaning; built multivariate linear, Poisson and Probit models to provide analytical insights on the impact of BOPS on sales.
+    + [Buy Online, PickUp In Store (BOPS) Strategy](http://rpubs.com/ivorypoo/bops): Analyzed over 1.5 million transactions for an online jewelry company; performed data wrangling, data cleaning; built multivariate linear, Poisson and Probit models to provide analytical insights on the impact of BOPS on sales.
 
 <br/>
 
