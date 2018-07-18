@@ -31,8 +31,9 @@ For collaboration and job oppurtunities, please email me at <ivory.poo@gmail.com
 
   * Forecast using ARIMA model
     + [iPhone Sales Forecast](http://rpubs.com/ivorypoo/forecastiphonesales):Forecast quarterly iPhone sales using ARIMA model by taking trend and seasonality into consideration.
-
-
+    
+  * Analysis on Commodity Price
+    + [iPhone Sales Forecast](http://rpubs.com/ivorypoo/forecastiphonesales):Data cleaning, data transformation, exploratory analysis on commodity price at monthly and annual level. Forecast crude oil price for the next 6 months using ARIMA model. 
 
 
 
