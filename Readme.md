@@ -12,7 +12,7 @@ For collaboration and job opportunities, please email me at <ivory.poo@gmail.com
 ## Content
 ### Tableau
   * Visualization
-    + [California state-to-state migration from 2010 to 2015](https://public.tableau.com/profile/ivory.poo#!/vizhome/CaliforniaState-to-StateMigration/CaliforniaInterstateMigrationfrom2000to2015): This is an interactive visualization of California state-to-state migration from 2010 to 2015. The visualization will show three parts - inbound, outbound, and net-inbound. Interact with the data by navigating to a specific year, viewing the changes year over year, and also by controlling the weight of the population you want to see. 
+    + [California state-to-state migration from 2010 to 2015](https://public.tableau.com/profile/ivory.poo#!/vizhome/CaliforniaState-to-StateMigration/CaliforniaInterstateMigrationfrom2000to2015): This is an interactive visualization of California state-to-state migration from 2010 to 2015. The visualization has three parts - inbound, outbound, and net-inbound. It is interactive, you could filter to inspect a specific year, or view year-over-year changes using the timeline tool, or view by limiting to a certain size of migration.
 
 ### Python
   * Exploratory Analysis and Visualization
