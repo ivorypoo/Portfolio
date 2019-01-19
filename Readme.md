@@ -35,7 +35,7 @@ For collaboration and job opportunities, please email me at <ivory.poo@gmail.com
 <br/>
   
   * Analysis on Commodity Price
-    + [iPhone Sales Forecast](http://rpubs.com/ivorypoo/forecastiphonesales):Data cleaning, data transformation, exploratory analysis on commodity price at monthly and annual level. Forecast crude oil price for the next 6 months using ARIMA model. 
+    + [Commodity Price Analysis/ Forecast](http://rpubs.com/ivorypoo/analyzecommodity):Data cleaning, data transformation, exploratory analysis on commodity price at monthly and annual level. Forecast crude oil price for the next 6 months using ARIMA model. 
 
 
 
