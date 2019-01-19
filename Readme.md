@@ -1,13 +1,13 @@
 
 # Portfolio
 
-Hi! My name is [Ivory Poo](https://www.linkedin.com/in/ivorypoo/). These are my data science project for academic and self learning purpose.
+Hi! My name is [Ivory Poo](https://www.linkedin.com/in/ivorypoo/). These are my data science projects for academic and self learning purpose.
 
 The R portfolio is located [here](http://rpubs.com/ivorypoo).
 
-Tableau visualitation portfolio is located [here](https://public.tableau.com/profile/ivory.poo#!/).
+Tableau visualization portfolio is located [here](https://public.tableau.com/profile/ivory.poo#!/).
 
-For collaboration and job oppurtunities, please email me at <ivory.poo@gmail.com>.
+For collaboration and job opportunities, please email me at <ivory.poo@gmail.com>.
 
 ## Content
 ### Tableau
